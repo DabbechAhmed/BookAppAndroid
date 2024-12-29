@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.BookApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
+        <!-- Define action bar size -->
+        <item name="actionBarSize">?android:attr/actionBarSize</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
